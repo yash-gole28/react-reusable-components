@@ -61,8 +61,6 @@ Make sure you have Node.js and npm installed.
    npm run dev
    ```
 
-5. Open the local URL displayed in your terminal.
-
 ## Available Scripts
 
 | Command | Description |
