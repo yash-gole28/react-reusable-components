@@ -1,4 +1,4 @@
-# React Component Lab
+# React Reusable Components
 
 A React project showcasing reusable UI components, custom hooks, and frontend performance optimization techniques built with React, TypeScript, and Vite.
 
