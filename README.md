@@ -40,7 +40,7 @@ Make sure you have Node.js and npm installed.
 1. Clone the repository:
 
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/yash-gole28/react-reusable-components.git
    ```
 
 2. Navigate to the project directory:
